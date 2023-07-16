@@ -3,3 +3,4 @@
 - debounded()
 - truncate()
 - isMobiel()
+- shuffleArray()
